@@ -29,5 +29,25 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+ "products":[
+      {
+          "id":1,
+          "name": "Levie's jeans",
+          "description": "Boyes slim fit jean casual use",
+          "gender": "male",
+          "category": "Jeans",
+          "image":"",
+          "price": 400
+      },
+      {
+          "id":2,
+          "name": "Levie's shirt",
+          "description": "Boyes slim fit shirt formal",
+          "gender": "male",
+          "category": "Shirts",
+          "image":"",
+          "price": 350
+      }
   ]
 }
