@@ -30,6 +30,7 @@
       "Price": 500000
     }
   ],
+
  "products":[
       {
           "id":1,
@@ -57,5 +58,8 @@
       "correct":0,
       "total":0
     }
+  ],
+  "employees":[
+    
   ]
 }
