@@ -51,12 +51,14 @@
           "price": 350
       }
   ],
+
   "users":[
     {
-      "id":1,
-      "name":"",
-      "correct":0,
-      "total":0
+      "id":"1",
+      "name":"Alex smith",
+      "email":"123alex@gmail.com",
+      "password":"123alex",
+      "data":[]
     }
   ],
   "employees":[
